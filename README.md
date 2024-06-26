@@ -63,6 +63,12 @@ My name is Javier, I am a Software Engineer 💻 based on Asturias (Spain).
 
 ---
 ### :fire: My Stats :
+
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jurones&theme=transparent)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=jurones&show_icons=true&theme=transparent)
+</div>
+
+  <div align="right">
 ![Counter](https://komarev.com/ghpvc/?username=jurones)
+  </div>
