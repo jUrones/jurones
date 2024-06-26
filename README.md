@@ -10,14 +10,14 @@
 
 My name is Javier, I am a Software Engineer 💻 based on Asturias (Spain).
 
-- <img src="https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png" width="20px"/> I’m working as DevOps/Platform Engineer contributing everyday to build, deploy and maintain the infrastructure to support software development and deployment, ensuring efficient and reliable operations.
+- <img src="https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png" width="20px"/> I’m working as DevOps/Platform Engineer contributing everyday to build, deploy and maintain the infrastructure to support software development and deployment.
 
 <!-- - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" width="20px"/> I work with Kubernetes extensively and really enjoy it. -->
 - 🗃️ I work with containers and Kubernetes extensively and really enjoy it.
   
 - ⚙️ I'm highly skilled in designing and managing CI/CD pipelines, particularly with GitLab CI.
 
-- 🔎 I use and configure monitoring tools daily to ensure the reliability of the sites.  
+- 🔎 I use and configure monitoring tools to ensure site reliability.  
 
 - ☁️ Cloud is a must.
 
