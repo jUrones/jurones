@@ -51,24 +51,20 @@ My name is Javier, I am a Software Engineer 💻 based on Asturias (Spain).
     <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" alt="Vault" width="40" height="40" title="Vault">
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" title="Terraform">
   </div>
-<div>
+
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
+
+
 </div>
-
-
-</div>
-
-
-
 
 ---
 ### :fire: My Stats :
 
-<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jurones&theme=transparent)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=jurones&show_icons=true&theme=transparent)
-</div>
 
-  <div align="right">
+
+
+
 ![Counter](https://komarev.com/ghpvc/?username=jurones)
-  </div>
