@@ -10,7 +10,7 @@
 
 My name is Javier, I am a Software Engineer 💻 based on Asturias (Spain).
 
-- <img src="https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png" width="20px"/> I’m working as DevOps/Platform Engineer contributing everyday to build, deploy and maintain the infrastructure to support software development and deployment.
+ I’m working as DevOps/Platform Engineer contributing everyday to build, deploy and maintain the infrastructure to support software development and deployment.
 
 ---
 ### 🧰 Technologies and Tools:
