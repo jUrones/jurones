@@ -3,16 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  <!--   <img src="https://avatars.githubusercontent.com/u/47136337?s=400&u=a51c79e0903475abd07d72a26ed023b3ecde46d9&v=4" width="100" style="border-radius: 10px; margin-bottom: -15px;" /> -->
 </h1>
-
 ---
-
-### 👨‍💻 About Me :
-
----
-### 🧰 Technologies and Tools:
+### 🧰 My Tech Stack:
 <div align="center">
     <div>
-    <img src="https://seeklogo.com/images/S/suse-logo-62C27ABBBF-seeklogo.com.png" alt="Suse" width="40" height="40" title="Suse">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" alt="Rancher" width="40" height="40" title="Rancher">
     <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vyj7ugeyvgki7xmj2rok" alt="Neuvector" width="40" height="40" title="Neuvector">
     <img src="https://www.suse.com/c/wp-content/uploads/2023/03/longhorn-icon-color-1024x1024.png" alt="Longhorn" width="40" height="40" title="Longhorn">
