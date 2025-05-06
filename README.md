@@ -8,10 +8,6 @@
 
 ### 👨‍💻 About Me :
 
-My name is Javier, I am a Software Engineer 💻 based on Asturias (Spain).
-
- I’m working as DevOps/Platform Engineer contributing everyday to build, deploy and maintain the infrastructure to support software development and deployment.
-
 ---
 ### 🧰 Technologies and Tools:
 <div align="center">
